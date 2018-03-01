@@ -1,0 +1,13 @@
+html {
+text-align: center;
+}
+
+body {
+    background-color: lightgray;
+}
+
+button {
+    border: 3px solid black;
+    cursor: pointer;
+    outline: none;
+}
